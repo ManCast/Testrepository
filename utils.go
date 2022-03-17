@@ -1,6 +1,11 @@
 package utils
 
-func HelloWorld()
+import (
+	"fmt"
+)
 
-fmt.Println("HOLA CHURRIAS")
+func HelloWorld() {
 
+	fmt.Println("HOLA CHURRIAS")
+
+}
